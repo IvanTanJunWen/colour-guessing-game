@@ -10,4 +10,4 @@ Hard: Select the correct colour based on a RGB value out of 6 squares
 
 # Instructions
 
-After cloning, run index.html
+After cloning, run colourGame.html
