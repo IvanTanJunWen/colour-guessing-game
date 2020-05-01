@@ -7,3 +7,7 @@ There are 2 modes, easy and hard.
 Easy: Select the correct colour based on a RGB value out of 3 squares
 
 Hard: Select the correct colour based on a RGB value out of 6 squares
+
+# Instructions
+
+After cloning, run index.html
